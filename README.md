@@ -26,7 +26,6 @@ When I'm not working with data, I enjoy [playing both indoor & outdoor games]. I
 
 - **Project A:** [Google Merchandise Store — SQL Analysis] 
 - **Project B:** [[Executive Sales Dashboard — Tableau]]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
